@@ -1,5 +1,7 @@
 # Start-Up Procedure
 
+A quick-start procedure for starting up the AV-42C.
+
 <!-- TODO: put a picture here with a general layout and a note that it is subject to change -->
 
 On the right panel:
