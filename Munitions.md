@@ -53,7 +53,7 @@ engage in dogfights.
 *Cost*: $1500 / missile
 *Mass*: 123kg
 
-##### Employment
+##### *Employment*
 
 The Sidewinder and the AIM-9 both have similar methods of employment. After selecting
 the weapon, you'll have a big circle in the middle of your HUD, and you'll hear a
@@ -78,6 +78,7 @@ Head Track    | The cue follows the motion of your head.
 > 🚨 **NOTE**: When using Head Track mode, make sure you've enabled HMCS power and lowered
 > your HMCS visor!
 
+---
 
 #### Air-to-Ground
 
@@ -101,7 +102,7 @@ TK
 
 TK
 
-###### Employment
+###### *Employment*
 
 The optically-guided missiles initially acquire their targets using the TGP. First, open the TGP
 page on an MFD and slew it to a target until it locks on in POINT mode—making sure the ITT
@@ -110,11 +111,13 @@ an optically-guided missile you will initially get a circle in the middle of you
 are in range and the missile has a lock, you will hear a tone. At this point, squeeze the trigger
 and move on to your next target
 
+---
 
 ##### Laser-Guided
 
 TK
 
+---
 
 ##### GPS-Guided
 
@@ -122,10 +125,18 @@ GPS-Guided weapons are a bit more complicated than other weapons, but are also v
 can generally be employed from much safer distances, as well.
 
 ###### GBU-38 Bomb
+
+TK
+
 ###### GBU-39 SD Bomb
+
+TK
+
 ###### AGM-89 Anti-ship Cruise Missile
 
-###### Employment
+TK
+
+###### *Employment*
 
 There are currently two-types of GPS-guided weapons: the bombs, and the cruise missiles.
 
@@ -175,7 +186,7 @@ the way you need for the more complicated guided weapons!
 
 TK
 
-##### CCRP Emplyment
+##### *CCRP Employment*
 
 TK
 
